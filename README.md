@@ -13,7 +13,7 @@ Output dla podanego przykładu
 ![image](https://user-images.githubusercontent.com/72551316/120192998-2b85e480-c21c-11eb-8c1c-14fd8394a3bb.png)
 Rysunek przykładowego grafu
 
-##Przykład 2
+## Przykład 2
 ![image](https://user-images.githubusercontent.com/72551316/120203622-334b8600-c228-11eb-8f7b-5e497ffae6cf.png)
 Przykładowy input
 
