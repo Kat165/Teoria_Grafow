@@ -27,4 +27,5 @@ Rysunek przykładowego grafu
 Algorytm Dijkstry ma za zadanie znaleźć najkrótszą drogę w grafie z początkowego wierzchołka do każdego innego w danym grafie. Przy okazji oblicza też koszt takiej drogi. Używa w tym celu metody zachłannej i zaznacza już odwiedzone wierzchołki, dzięki czemu nie da się odwiedzić wierzchołka więcej niż 1 raz.
 ### Przykłady zastosowania
 Algorytm ten można stosować w nawigacji do znalezienia najkrótszej drogi do celu.
+Można też go użyć do zaprojektowania sieci telekomunikacyjnej, tak aby połączenie międzi dwoma np. oddziałami firmy było jak najtańsze.
 ### Z jakich metod korzysta się obecnie do rozwiązywania tych problemów?
