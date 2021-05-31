@@ -1,6 +1,8 @@
 # Teoria Grafów
 
-Algorytm pobiera dane z pliku Graph.txt. Dane są podane w formie macierzy sąsiedztwa. Podany graf musi być prosty i nie może zawierać ujemnych wag. Krawędź od wierzchołka np. 1 do siebie samego zawsze musi mieć wagę 0. Maksymalna waga krawędzi to 998. Krawędzie, które nie istnieją mają wagę 999. Maksymalna liczba wierzchołków to 100. Jeżeli do danego wierzchołka nie da się dojść, to pokazany zostanie koszt -1. Najpierw podajemy liczbę wierzchołków, następnie macierz sąsiedztwa, a na koniec węzeł, który wybieramy na startowy. Węzły są numerowane od 0. Graph.txt nie może zawierać komentarzy. Trzeba zmienić ścieżkę to pliku Graph.txt na aktualną (Miejsce zaznaczone TODO).
+Algorytm pobiera dane z pliku Graph.txt. Można podać tylko po 1 grafie. Dane są podane w formie macierzy sąsiedztwa. Podany graf musi być prosty i nie może zawierać ujemnych wag. Krawędź od wierzchołka np. 1 do siebie samego zawsze musi mieć wagę 0. Maksymalna waga krawędzi to 998. Krawędzie, które nie istnieją mają wagę 999. Maksymalna liczba wierzchołków to 100. Jeżeli do danego wierzchołka nie da się dojść, to pokazany zostanie koszt -1. Najpierw podajemy liczbę wierzchołków, następnie macierz sąsiedztwa, a na koniec węzeł, który wybieramy na startowy. Węzły są numerowane od 0. Graph.txt nie może zawierać komentarzy. Trzeba zmienić ścieżkę to pliku Graph.txt na aktualną (Miejsce zaznaczone TODO).
+
+## Przykład 1
 
 ![image](https://user-images.githubusercontent.com/72551316/120190822-676b7a80-c219-11eb-8e30-22c03d0ded3c.png)
 Przykładowy input
@@ -9,4 +11,14 @@ Przykładowy input
 Output dla podanego przykładu
 
 ![image](https://user-images.githubusercontent.com/72551316/120192998-2b85e480-c21c-11eb-8c1c-14fd8394a3bb.png)
+Rysunek przykładowego grafu
+
+##Przykład 2
+![image](https://user-images.githubusercontent.com/72551316/120203622-334b8600-c228-11eb-8f7b-5e497ffae6cf.png)
+Przykładowy input
+
+![image](https://user-images.githubusercontent.com/72551316/120203667-41010b80-c228-11eb-920e-2b0eacaea1bb.png)
+Output dla podanego przykładu
+
+![image](https://user-images.githubusercontent.com/72551316/120203970-963d1d00-c228-11eb-9965-02d09a9cab26.png)
 Rysunek przykładowego grafu
