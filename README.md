@@ -28,4 +28,5 @@ Algorytm Dijkstry ma za zadanie znaleźć najkrótszą drogę w grafie z począt
 ### Przykłady zastosowania
 Algorytm ten można stosować w nawigacji do znalezienia najkrótszej drogi do celu.
 Można też go użyć do zaprojektowania sieci telekomunikacyjnej, tak aby połączenie międzi dwoma np. oddziałami firmy było jak najtańsze.
+\nMoże też zostać użyty do budowy sieci dróg.
 ### Z jakich metod korzysta się obecnie do rozwiązywania tych problemów?
