@@ -30,3 +30,4 @@ Algorytm ten można stosować w nawigacji do znalezienia najkrótszej drogi do c
 Można też go użyć do zaprojektowania sieci telekomunikacyjnej, tak aby połączenie międzi dwoma np. oddziałami firmy było jak najtańsze.
 Może też zostać użyty do budowy sieci dróg.
 ### Z jakich metod korzysta się obecnie do rozwiązywania tych problemów?
+Mój algorytm można ulepszyć podając listę sąsiedztwa na wejście i korzystając z kopca - złożoność spada z O(V^2) do O(ELogV). Złożoność algorytmu można też zredukować do O(E + VLogV) jeśli użyjemy kopca Fibbonaciego. Algorytm Dijkstry nie radzi sobie ze znajdowaniem najkrótszej ścieżki w grafie z ujemnymi wartościami krawędzi - w takim wypadku należy skorzystać z algorytmu Bellmana-Forda.
