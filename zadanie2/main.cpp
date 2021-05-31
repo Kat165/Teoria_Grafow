@@ -1,7 +1,7 @@
 #include<iostream>
 #include <fstream>
 #define INF 999
-/// DODATNIE WARTOŚCI, PROSTYCH
+
 using namespace std;
 
 class DijkstraAlg
