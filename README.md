@@ -8,5 +8,5 @@ Przykładowy input
 ![image](https://user-images.githubusercontent.com/72551316/120189974-45252d00-c218-11eb-8285-8ed9660fa9a6.png)
 Output dla podanego przykładu
 
-![image](https://user-images.githubusercontent.com/72551316/120192794-ebbefd00-c21b-11eb-8719-3ed3a1c3209e.png)
+![image](https://user-images.githubusercontent.com/72551316/120192998-2b85e480-c21c-11eb-8c1c-14fd8394a3bb.png)
 Rysunek przykładowego grafu
