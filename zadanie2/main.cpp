@@ -19,7 +19,7 @@ public:
     void init()
     {
         ifstream graph;
-        graph.open(R"(C:\Users\kasia\CLionProjects\DijkstraGrafy\Graph.txt)"); /// TODO: zmienić ścieżkę w nawiasie
+        graph.open("../Graph.txt"); /// TODO: zmienić ścieżkę w nawiasie, jeżeli nie działa
         if (!graph)
             exit(1);
         graph >> v;
